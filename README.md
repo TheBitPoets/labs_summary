@@ -73,6 +73,9 @@ A brief summary about last labs
     1. [index.html](https://github.com/kinderp/lab8/blob/master/index.html)
     2. [index.js](https://github.com/kinderp/lab8/blob/master/index.js)
     3. [server.js](https://github.com/kinderp/lab8/blob/master/server.js)
+ 
+    **What will we learn?**
+    1. **How to interact with a databse from server side**
 
 * [lab9](https://github.com/kinderp/lab9)
 
@@ -101,9 +104,10 @@ A brief summary about last labs
    6. [index.js](https://github.com/kinderp/lab9/blob/master/index.js)
    7. [test.db](https://github.com/kinderp/lab9/blob/master/test.db)
 
-**What will we learn?**
-    1. **How to expose whatever kind of http method on the server** 
-    2. **How to manage a regiser and/or a login process** 
+   **What will we learn?**
+ 
+  1. **How to expose whatever kind of http method on the server** 
+  2. **How to manage a regiser and/or a login process** 
     
 * [lab10](https://github.com/kinderp/lab10):
 
