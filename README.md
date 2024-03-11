@@ -18,7 +18,7 @@ A brief summary about last labs
     2. [client.js](https://github.com/kinderp/lab5/blob/master/client.js)
     3. [index.js](https://github.com/kinderp/lab5/blob/master/index.js)
  
-  **What We will learn?**
+  **What will we learn?**
     1. **How to send data from client to server** via `fetch` call.
     2. **How to expose a route** over a `GET` method on the server
     3. **How to use cors** headers
@@ -34,7 +34,7 @@ A brief summary about last labs
   2. [server.js](https://github.com/kinderp/lab6/blob/master/server.js)
   3. [success.html](https://github.com/kinderp/lab6/blob/master/success.html)
  
-  **What We will learn?**
+  **What will we learn?**
     1. **How to send data from client to server** via a `form` html tag.
     2. **How to receive data** via post on the server
     3. **How to return back a success page** to the client
@@ -59,7 +59,7 @@ A brief summary about last labs
     2. [client.js](https://github.com/kinderp/lab7/blob/master/client.js)
     3. [server.js](https://github.com/kinderp/lab7/blob/master/server.js)
 
-  **What We will learn?**
+  **What will we learn?**
     1. **How to send data from client to server** via `form` using a `fetch` call over `POST` method. You send data via `fetch` call over `GET` method as we've already dove in lab5. 
     2. **How to send data** inside a route using a `fetch` call over a `GET` method
     3. **How to send data** as a query string using a `fetch` call over a `GET` method 
@@ -93,7 +93,7 @@ A brief summary about last labs
   
     From a server side point of view either for login or for register we need to receive parameters from a fetch call over a post method and the use these parameters to create a new row in the `utenti` table. We'll use what we've learnt in the previous lab to do that. Server shows how to expose `GET`, `POST`, `PUT` and `DELETE` methods on different routes as well.
 
-   1. [register.html]https://github.com/kinderp/lab9/blob/master/register.html)
+   1. [register.html](https://github.com/kinderp/lab9/blob/master/register.html)
    2. [register.js](https://github.com/kinderp/lab9/blob/master/register.js)
    3. [register_success.html](https://github.com/kinderp/lab9/blob/master/register_success.html)
    4. [login.html](https://github.com/kinderp/lab9/blob/master/login.html)
@@ -101,4 +101,24 @@ A brief summary about last labs
    6. [index.js](https://github.com/kinderp/lab9/blob/master/index.js)
    7. [test.db](https://github.com/kinderp/lab9/blob/master/test.db)
 
-* [lab10](https://github.com/kinderp/lab10)
+**What will we learn?**
+    1. **How to expose whatever kind of http method on the server** 
+    2. **How to manage a regiser and/or a login process** 
+    
+* [lab10](https://github.com/kinderp/lab10):
+
+  In this lab we'll how to generate (from server) some dynamic html pages on the fly using parameters coming from client as input query parameters for our internal database.
+  **Note** We'll use [nunjucks](https://mozilla.github.io/nunjucks/) as template engine
+  This time we won't use an already prepared db but istead we'll create from scrath our db using two javascript files (`create_db.js`, `populate_db.js`).
+
+   1. [create_db.js](https://github.com/kinderp/lab10/blob/master/create_db.js)
+   2. [populate_db.js](https://github.com/kinderp/lab10/blob/master/populate_db.js)
+   3. [server.js](https://github.com/kinderp/lab10/blob/master/server.js)
+   4. [elenco_missive.html](https://github.com/kinderp/lab10/blob/master/elenco_missive.html)
+   5. [elenco_transita.html](https://github.com/kinderp/lab10/blob/master/elenco_transita.html)
+
+  **What will we learn?**
+    1. **How to generate dynamic html pages on the server** 
+     
+
+  
