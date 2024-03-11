@@ -42,6 +42,7 @@ A brief summary about last labs
 * [lab7](https://github.com/kinderp/lab7):
 
   In this lab we'll see all the differnt ways to send data (parameters) from client to server (at least the three most used ones)
+  
   a) Data over **query string** using `GET`
      ```
      http://localhost:3333/users?id=1234&token=abc
@@ -56,7 +57,7 @@ A brief summary about last labs
 
     1. [client.html](https://github.com/kinderp/lab7/blob/master/client.html)
     2. [client.js](https://github.com/kinderp/lab7/blob/master/client.js)
-    3. [server.ks](https://github.com/kinderp/lab7/blob/master/server.js)
+    3. [server.js](https://github.com/kinderp/lab7/blob/master/server.js)
 
   **What We will learn?**
     1. **How to send data from client to server** via `form` using a `fetch` call over `POST` method. You send data via `fetch` call over `GET` method as we've already dove in lab5. 
@@ -64,7 +65,14 @@ A brief summary about last labs
     3. **How to send data** as a query string using a `fetch` call over a `GET` method 
     4. **How to receive data** coming in these three different ways
 
-* [lab8](https://github.com/kinderp/lab8)
+* [lab8](https://github.com/kinderp/lab8):
+
+  Here we finally learn how to interact with a database. We have an html frontend with three buttons, each one for a different type of database relationship (N:N, 1:N, 1:1). Clicking on these buttons a `fetch` call to the server will be executed from client. After receiving a frontend call, server's code will run a corresponding sql statement in order to create the selected relationhip from the user.
+
+  **Note** We're using [`sqlite3` lib](https://www.npmjs.com/package/sqlite3) in order to interact with sqlite dbs  
+    1. [index.html](https://github.com/kinderp/lab8/blob/master/index.html)
+    2. [index.js](https://github.com/kinderp/lab8/blob/master/index.js)
+    3. [server.js](https://github.com/kinderp/lab8/blob/master/server.js)
 
 * [lab9](https://github.com/kinderp/lab9)
 
