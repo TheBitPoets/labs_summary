@@ -76,4 +76,29 @@ A brief summary about last labs
 
 * [lab9](https://github.com/kinderp/lab9)
 
+  In lab9 we'll use an already prepared db containing a single table (named `utenti`) in order to create two html pages: `register.html` and `login.html`. The first one `register.html` contains an html form used to register a new user in our db; please take care here that even if we set `action` and/or `method` form parameters:
+  
+   ```html
+    <form action="" method="post">
+   ```
+  
+  we manage client/server communication with javascript inside `register.js` just adding there following line
+
+   ```js
+     e.preventDefault(); // Prevent default form submission behavior
+   ```
+
+    Form data will be sent as body of a `post` method call. After receiving a success response from server a **redirect to the login page** will be executed by the client.
+  In the second one (`login.html`) we just try to send our new credential created in the previous step. **TODO** In case of a login success response from server we need to be redirected to some sort of user's homepage. We can't to do that so far because we aren't able to create dynamic html page on the fly. We'll learn it in the next lab.
+  
+    From a server side point of view either for login or for register we need to receive parameters from a fetch call over a post method and the use these parameters to create a new row in the `utenti` table. We'll use what we've learnt in the previous lab to do that. Server shows how to expose `GET`, `POST`, `PUT` and `DELETE` methods on different routes as well.
+
+   1. [register.html]https://github.com/kinderp/lab9/blob/master/register.html)
+   2. [register.js](https://github.com/kinderp/lab9/blob/master/register.js)
+   3. [register_success.html](https://github.com/kinderp/lab9/blob/master/register_success.html)
+   4. [login.html](https://github.com/kinderp/lab9/blob/master/login.html)
+   5. [login.js](https://github.com/kinderp/lab9/blob/master/login.js)
+   6. [index.js](https://github.com/kinderp/lab9/blob/master/index.js)
+   7. [test.db](https://github.com/kinderp/lab9/blob/master/test.db)
+
 * [lab10](https://github.com/kinderp/lab10)
