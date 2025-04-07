@@ -122,7 +122,14 @@ A brief summary about last labs
    5. [elenco_transita.html](https://github.com/kinderp/lab10/blob/master/elenco_transita.html)
 
   **What will we learn?**
-    1. **How to generate dynamic html pages on the server** 
+    1. **How to generate dynamic html pages on the server**
+
+ * [lab11](https://github.com/TheBitPoets/websocket-node)
+
+   In this lab we'll see websocket communication. We don't use a plain raw websocket but in order to make it simpler we're gonna use [socket.io](https://socket.io/) lib that's just a wrapper around websockets
+
+   1. [index.html](https://github.com/TheBitPoets/websocket-node/blob/main/index.html)
+   2. [index.js](https://github.com/TheBitPoets/websocket-node/blob/main/index.js)
      
 
   
