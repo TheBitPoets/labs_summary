@@ -131,5 +131,6 @@ A brief summary about last labs
    1. [index.html](https://github.com/TheBitPoets/websocket-node/blob/main/index.html)
    2. [index.js](https://github.com/TheBitPoets/websocket-node/blob/main/index.js)
      
-
+  **What will we learn?**
+    1. **How to make real time bidirectional communication over websocket instead of using html protocol**
   
