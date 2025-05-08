@@ -2,10 +2,13 @@
 A brief summary about last labs
 
 * [lab1](https://github.com/kinderp/lab1)
+  A simple HTML & CSS static site 
 
 * [lab2](https://github.com/kinderp/lab2)
+  A more sophisticated HTML & CSS site (with local and session storage)
 
 * [lab3](https://github.com/kinderp/lab3)
+  All javascript you need for this year. Use this lab as reference!
 
 * [lab4](https://github.com/kinderp/lab4)
 
