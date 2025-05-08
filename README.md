@@ -1,4 +1,4 @@
-# Labs' summary
+# TPSI Labs 
 A brief summary about last labs
 
 * [lab1](https://github.com/kinderp/lab1)
