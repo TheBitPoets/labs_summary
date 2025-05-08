@@ -11,6 +11,7 @@ A brief summary about last labs
   All javascript you need for this year. Use this lab as reference!
 
 * [lab4](https://github.com/kinderp/lab4)
+  Tic tac toe game in HTML + CSS + Javascript 
 
 * [lab5](https://github.com/kinderp/lab5):
   
