@@ -114,7 +114,7 @@ A brief summary about last labs
   2. **How to manage a regiser and/or a login process** 
     
 * [lab10](https://github.com/kinderp/lab10):
-
+  **Note** Before begin this lab, please take a look at this [nunjucks intro](https://github.com/kinderp/nunjucks_lab)
   In this lab we'll how to generate (from server) some dynamic html pages on the fly using parameters coming from client as input query parameters for our internal database.
   **Note** We'll use [nunjucks](https://mozilla.github.io/nunjucks/) as template engine
   This time we won't use an already prepared db but istead we'll create from scrath our db using two javascript files (`create_db.js`, `populate_db.js`).
