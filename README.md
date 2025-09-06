@@ -2,7 +2,8 @@
 A brief summary about last labs
 
 * [lab1](https://github.com/kinderp/lab1)
-  A simple HTML & CSS static site 
+  A simple HTML & CSS static site
+  * [Slides del lab](https://drive.google.com/drive/folders/1hn9WS82YY85AEk96P37Dk3oHnd7bYMdi?usp=sharing)
 
 * [lab2](https://github.com/kinderp/lab2)
   A more sophisticated HTML & CSS site (with local and session storage)
