@@ -5,6 +5,12 @@ A brief summary about last labs
   A simple HTML & CSS static site
   * [Slides del lab](https://drive.google.com/drive/folders/1hn9WS82YY85AEk96P37Dk3oHnd7bYMdi?usp=sharing)
 
+| Data          | Codice        |
+| ------------- | ------------- |
+| 1) 08/09/2025 |   [lab1.zip](https://github.com/user-attachments/files/22309538/lab1.zip) |
+
+
+
 * [lab2](https://github.com/kinderp/lab2)
   A more sophisticated HTML & CSS site (with local and session storage)
 
