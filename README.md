@@ -8,6 +8,7 @@ A brief summary about last labs
 | Data          | Codice        |
 | ------------- | ------------- |
 | 1) 08/09/2025 |   [lab1.zip](https://github.com/user-attachments/files/22309538/lab1.zip) |
+| 2) 15/09/2025 |   [lab1.zip](https://github.com/user-attachments/files/22359803/lab1.zip) |
 
 
 
